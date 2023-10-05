@@ -36,3 +36,5 @@ public class SauceDemoLoginTest {
 
         // Закройте браузер
         driver.quit();
+    }
+}
