@@ -1,6 +1,6 @@
 package seminars.hw6;
 
-import model.MyList;
+import seminars.hw6.model.MyList;
 
 public class Controller {
     MyList myList;
